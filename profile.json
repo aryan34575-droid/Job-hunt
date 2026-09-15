@@ -1,0 +1,62 @@
+{
+  "name": "Aryan Mishra",
+  "country": "India",
+  "skills": [
+    "Excel",
+    "Google Sheets",
+    "SQL",
+    "Python",
+    "Data Analysis",
+    "Data Quality",
+    "AI Evaluation",
+    "QA Testing",
+    "Research",
+    "Data Operations",
+    "Reporting",
+    "n8n",
+    "Workflow Automation"
+  ],
+  "preferred_roles": [
+    "Data Analyst",
+    "Data Quality Analyst",
+    "Data Operations",
+    "AI Data Operations",
+    "AI Evaluation",
+    "Manual QA Tester",
+    "Research Analyst",
+    "Reporting Analyst",
+    "Junior Business Analyst",
+    "Operations Analyst",
+    "Data Processing"
+  ],
+  "exclude_roles": [
+    "Customer Support",
+    "Call Center",
+    "Telecaller",
+    "Sales",
+    "Commission",
+    "Field Sales",
+    "Door to Door",
+    "Freelance",
+    "Gig",
+    "Driver",
+    "Delivery"
+  ],
+  "already_applied": [
+    "Mindrift",
+    "DataAnnotation",
+    "Alignerr",
+    "OneForma",
+    "Outlier",
+    "TELUS Digital AI Community",
+    "Appen",
+    "OpenTrain",
+    "Remotasks",
+    "Clickworker",
+    "Microworkers",
+    "Fiverr",
+    "Freelancer",
+    "PeoplePerHour",
+    "SproutGigs"
+  ]
+}
